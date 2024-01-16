@@ -4,6 +4,7 @@ Solving LeetCode problems in C#.
 
 | Date | Problem | Difficulty | 
 |------|---------|------------|
+| 16-Jan-24 | [380](380.cs) | Medium | 
 | 15-Jan-24 | [2225](2225.cs) | Medium | 
 | 14-Jan-24 | [1657](1657.cs) | Medium | 
 | 13-Jan-24 | [1347](1347.cs) | Medium | 
